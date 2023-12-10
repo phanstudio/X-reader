@@ -2,6 +2,8 @@
 
 CopyReader is a Python application that enhances your text reading experience by integrating with the clipboard, utilizing the Flet GUI module, pyttsx3 for text-to-speech functionality, and librosa for audio processing. The app intelligently splits the text into parts, providing a visual indication of the currently spoken segment, making it easier for users to follow along while listening.
 
+Try by clicking and downloading the zip: https://drive.google.com/file/d/1Cw6U3l1c5IbRKvWb-kv58FrKVxwQeskT/view?usp=sharing
+
 ![image](https://github.com/phanstudio/X-reader/assets/85735876/eb259040-c9d1-49f7-b78c-29b6a5787319)
 
 ![image](https://github.com/phanstudio/X-reader/assets/85735876/ffa136df-0219-4a2d-aab2-c6f8a0b23ab1)
@@ -10,7 +12,6 @@ CopyReader is a Python application that enhances your text reading experience by
 
 
 **it is a working application but test are been ran to improve it.**
-to download an try https://drive.google.com/file/d/1Cw6U3l1c5IbRKvWb-kv58FrKVxwQeskT/view?usp=sharing
 
 ## Features
 
