@@ -10,7 +10,7 @@ CopyReader is a Python application that enhances your text reading experience by
 
 
 **it is a working application but test are been ran to improve it.**
-to download an try ().
+to download an try https://drive.google.com/file/d/1Cw6U3l1c5IbRKvWb-kv58FrKVxwQeskT/view?usp=sharing
 
 ## Features
 
